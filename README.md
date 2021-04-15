@@ -31,20 +31,20 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Ethan McGee</h1>
+        <h1>Abigail Marquez</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying Political Science with a minor in history. I work as Props Chief at Rodeheaver.</p>
          <p>
-            I enjoy participating in community outreach events, and I am active in my local church: Southside Baptist Church of Gaffney, SC.  I teach Sunday School for the College &amp; Career group and I run the Sound / Video Projection System during services.  I also drive the church bus for weekend activities.
+            I enjoy making jewelry in my free time, especially on school breaks. i have participated in my local church, Faith Baptist Church, in Arizona for most                  of my life. I have taught sunday school, played piano, and done the slide shows for services. I love a good debate and enjoy learning new things that               expand my mind.
          </p> 
          <p>
-            I also enjoy running / hiking as well as a good book
+            After I graduate Bob Jones, I plan to go to law school to further my education.
          </p>
         
         <h3>EDUCATION</h3>
-        Computer Science<br>
-        Bob Jones University
+        Highschool Diploma <br>
+        Marquez Homeschool
     </div>
            
 </body>
